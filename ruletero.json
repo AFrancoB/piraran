@@ -1,0 +1,9 @@
+[
+{ "url":"perez-prado-ruletero-1.wav","type":"audio","bank":"ruletero","n":0},
+{ "url":"perez-prado-ruletero-2.wav","type":"audio","bank":"ruletero","n":1},
+{ "url":"perez-prado-ruletero-3.wav","type":"audio","bank":"ruletero","n":2},
+{ "url":"perez-prado-ruletero-4.wav","type":"audio","bank":"ruletero","n":3},
+{ "url":"perez-prado-ruletero-5.wav","type":"audio","bank":"ruletero","n":4},
+{ "url":"perez-prado-ruletero-6.wav","type":"audio","bank":"ruletero","n":5},
+{ "url":"perez-prado-ruletero-7.wav","type":"audio","bank":"ruletero","n":6}
+]
